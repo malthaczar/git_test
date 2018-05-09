@@ -1,2 +1,2 @@
 # git_test
-odin project #1
+First odin Project on Github!
